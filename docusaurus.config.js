@@ -9,7 +9,7 @@ const config = {
   title: 'DutchIS Documentation',
   tagline: 'Instant Infrastucture',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/docs/welcome',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://dutchis.net/assets/icon.ico',
