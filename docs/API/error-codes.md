@@ -52,3 +52,7 @@ You can still add another payment method and set it as default.
 ### `payment-method-delete-default`
 You cannot delete an payment method which is set as default. Please set another payment method as default and try again.
 
+## Suspended
+
+### `suspended-overdue-invoices`
+Your account is currently suspended due to unpaid invoices. Please pay your invoices to continue using our services.
