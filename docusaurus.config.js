@@ -8,11 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DutchIS Documentation',
   tagline: 'Instant Infrastucture',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.dutchis.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://dutchis.net/assets/icon.ico',
+  favicon: 'https://dutchis.net/favicon.ico',
   organizationName: 'dutchis',
   projectName: 'documentation',
   i18n: {
@@ -30,9 +30,6 @@ const config = {
           routeBasePath: '/',
         },
         blog: false,
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
       }),
     ],
   ],
