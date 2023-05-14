@@ -3,15 +3,7 @@ title: Error Codes
 ---
 
 <head>
-    <meta name="theme-color" content="#103f84"/>
     <meta name="keywords" content="DutchIS, API, Error Codes, Documentation, Docs" />
-    <meta name="publisher" content="DutchIS"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:image" content="https://dutchis.net/images/logo.png"/>
-    <meta property="og:image:type" content="image/png"/>
-    <meta property="og:image:width" content="300"/>
-    <meta property="og:image:height" content="300"/>
-    <meta property="og:image:alt" content="The DutchIS logo"/>
 </head>
 
 Here you will find all of the error codes our API will produce and a way to fix it.

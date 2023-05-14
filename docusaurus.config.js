@@ -15,6 +15,58 @@ const config = {
   favicon: 'https://dutchis.net/favicon.ico',
   organizationName: 'dutchis',
   projectName: 'documentation',
+  titleDelimiter: '-',
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: "theme-color",
+        content: "#103f84"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        name: "keywords",
+        content: "DutchIS, Documentation, Docs"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:type",
+        content: "article"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:image",
+        content: "https://dutchis.net/images/logo.png"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:image:type",
+        content: "image/png"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:image:width",
+        content: "300"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:image:height",
+        content: "300"
+      }
+    }, {
+      tagName: 'meta',
+      attributes: {
+        property: "og:image:alt",
+        content: "The DutchIS logo"
+      }
+    }
+  ],
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
