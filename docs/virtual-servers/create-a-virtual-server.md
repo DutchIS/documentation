@@ -49,7 +49,7 @@ Your password used for logging in to your server when key based authentication i
 | Windows Server 2022 | 5 minutes | - |
 
 **SSH Keys:**
-Select the SSH key you want to use to login with. If you don't have a SSH key yet, [then first read this article](/Virtual%20Servers/creating-a-sshkey).
+Select the SSH key you want to use to login with. If you don't have a SSH key yet, [then first read this article](/virtual-servers/creating-a-sshkey).
 
 **Specifications:**
 Choose the specifications for your server. This can be changed later. **Note: disk size cannot be decreased.**
