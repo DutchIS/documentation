@@ -3,15 +3,7 @@ title: Create a virtual server
 ---
 
 <head>
-    <meta name="theme-color" content="#103f84"/>
     <meta name="keywords" content="DutchIS, VPS, Virtual Server, VM, Create, Documentation, Docs" />
-    <meta name="publisher" content="DutchIS"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:image" content="https://dutchis.net/images/logo.png"/>
-    <meta property="og:image:type" content="image/png"/>
-    <meta property="og:image:width" content="300"/>
-    <meta property="og:image:height" content="300"/>
-    <meta property="og:image:alt" content="The DutchIS logo"/>
 </head>
 
 Virtual servers are virtual server instances hence the name. You may also know it by VPS, VM, instance. Creating a virtual server is simple and can be done in just a few steps!
