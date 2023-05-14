@@ -52,3 +52,5 @@ It should look something like the image below once your server is deployed. Depe
 
 ![virtual server overview with a virtual server](/img/virtualservers/virtualserver-overview-with-vs.png)
 Once your server is deployed you can login into it via SSH for linux systems or use Remote Desktop(RDP) for Windows systems.
+
+![virtual server ssh](/img/virtualservers/ubuntu-server-neofetch.webp)
