@@ -1,0 +1,7 @@
+{
+    "label": "Game Servers",
+    "link": {
+        "type": "generated-index",
+        "description": "Game server are a big target to DDoS attacks, which can severely impact the game's performance and ruin the gaming experience for players. In this documentation, we'll cover the basics of game DDoS protection, including how it works and how to implement it. Game DDoS protection is specifically designed to protect online games from DDoS attacks, ensuring that the game's servers remain stable and online. We hope that this information will help you better understand game DDoS protection and take steps to protect your online gaming experience."
+    }
+}

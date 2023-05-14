@@ -30,9 +30,14 @@ const config = {
           routeBasePath: '/',
         },
         blog: false,
+        theme: {
+          customCss: [require.resolve('./src/css/custom.css')],
+        },
       }),
     ],
   ],
+  
+  scripts: [{src: 'https://plausible.dutchis.net/js/script.js', defer: true, 'data-domain': 'docs.dutchis.net'}],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
