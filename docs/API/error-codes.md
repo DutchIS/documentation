@@ -34,6 +34,9 @@ You have provided an invalid virtual server type. The following virtual server t
 The node your virtual server is hosted on is currently unavailable. This could be due to maintenance or a node failure. 
 Please contact our support team for more information.
 
+### `virtual-server-no-ips`
+You have no IP addresses available to assign to your virtual server. Please contact our support team for more information.
+
 ## Tickets
 
 ### `ticket-not-found`
@@ -68,3 +71,42 @@ You cannot delete an payment method which is set as default. Please set another 
 
 ### `suspended-overdue-invoices`
 Your account is currently suspended due to unpaid invoices. Please pay your invoices to continue using our services.
+
+## Teams
+
+### `not-team-member`
+You are not a member of the team you are trying to access. Please contact the team owner to get access.
+
+### `missing-permission-team`
+You do not have permissions to perform this action on this team. Please contact the team owner to get access.
+
+### `teams-remove-owner`
+You cannot remove the owner of a team. Please transfer ownership to another member and try again.
+
+### `teams-remove-not-member`
+You cannot remove a member which is not a member of the team.
+
+## API
+
+### `missing-permission-api`
+Your API key does not have permissions to perform this action. Please update the permissions of your API key.
+
+### `too-many-requests`
+You have made too many requests. Please wait a bit before trying again.
+
+## Network
+
+### `network-ip-not-found`
+The IP address you have given does not exist or is not associated with your account. Check your IP address.
+
+## Payment
+
+### `payment-method-does-not-exist`
+The payment method you have given does not exist.
+
+### `payment-method-default`
+The payment method you have given is already the default. Choose another payment method to set as default.
+
+### `payment-method-delete-default`
+You cannot delete an payment method which is set as default. Please set another payment method as default and try again.
+

@@ -33,17 +33,17 @@ Your password used for logging in to your server when key based authentication i
 
 **Operating System:**
 
-| Name | Est Deploy time | Remark |
-|------|-------------|--------|
-| Ubuntu 22.04 | a minute | - |
-| Ubuntu 20.04 | a minute | - |
-| Debian 10 | a minute | - |
-| Debian 11 | a minute | - |
-| Fedora 38 | a minute | - |
-| OpenSUSE Leap 15.5 | a minute | - |
-| Gentoo 2023 | a minute | - |
-| CentOS 9 | a minute | WARNING: CentOS is end of life |
-| Windows Server 2022 | 5 minutes | - |
+| Name | Est Deploy time | Remark | API ID |
+|------|-------------|--------|--------|
+| Ubuntu 22.04 | a minute | - |ubuntu-22-04|
+| Ubuntu 20.04 | a minute | - |ubuntu-20-04|
+| Debian 10 | a minute | - |debian-10|
+| Debian 11 | a minute | - |debian-11|
+| Fedora 38 | a minute | - |fedora-38|
+| OpenSUSE Leap 15.5 | a minute | - |opensuse-leap-15-5|
+| Gentoo 2023 | a minute | - |gentoo-2023|
+| CentOS 9 | a minute | WARNING: CentOS is end of life |centos-9|
+| Windows Server 2022 | 5 minutes | - |windows-2022|
 
 **SSH Keys:**
 Select the SSH key you want to use to login with. If you don't have a SSH key yet, [then first read this article](/virtual-servers/creating-a-sshkey).
