@@ -28,6 +28,11 @@ You can not downgrade a virtual server. You have specified an plan ID which has 
 ### `virtual-server-invalid-type`
 You have provided an invalid virtual server type. The following virtual server types are available:
 - `performance`
+- `standard`
+
+### `virtual-server-unavailable`
+The node your virtual server is hosted on is currently unavailable. This could be due to maintenance or a node failure. 
+Please contact our support team for more information.
 
 ## Tickets
 
