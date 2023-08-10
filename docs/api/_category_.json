@@ -3,5 +3,8 @@
     "link": {
         "type": "generated-index",
         "description": "More information about our API"
+    },
+    "customProps": {
+        "icon": "fa fa-plug"
     }
 }

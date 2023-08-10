@@ -4,5 +4,8 @@
         "type": "generated-index",
         "title": "Virtual Servers",
         "description": "Welcome to our virtual server documentation! Here, we'll cover everything about our virtual servers. Virtual servers are software-defined servers that run on a physical server. With virtual servers, businesses can scale and expand operations without physical infrastructure."
+    },
+    "customProps": {
+        "icon": "fa fa-server"
     }
 }

@@ -2,6 +2,8 @@
 sidebar_position: 1
 slug: /
 title: Welcome!
+sidebar_custom_props:
+    icon: fa fa-door-open
 ---
 
 <head>
