@@ -9,7 +9,7 @@ title: Create a virtual server
 Virtual servers are virtual server instances hence the name. You may also know it by VPS, VM, instance. Creating a virtual server is simple and can be done in just a few steps!
 
 ### Video Guide
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DcGsTHjskLY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PU4EcUH8ONg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Written guide
 
