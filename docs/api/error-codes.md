@@ -37,6 +37,9 @@ Please contact our support team for more information.
 ### `virtual-server-no-ips`
 You have no IP addresses available to assign to your virtual server. Please contact our support team for more information.
 
+### `virtual-server-max-reached`
+You have reached the maximum amount of virtual server you can create. Please contact our support team to increase this limit for you.
+
 ## Tickets
 
 ### `ticket-not-found`
